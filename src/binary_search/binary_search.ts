@@ -1,6 +1,5 @@
 const n = 100000
 
-
 function binarySearch(searchedItem: number, values: number[]){
     var lowerBoundary = 0
     var upperBoundary = values.length - 1
